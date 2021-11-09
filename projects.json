@@ -1,14 +1,14 @@
 [
     {
-      "name": "project 1: quiz game app",
+      "name": "Project 1: Wario Quiz Game App",
       "live": "https://seir-penguin-project-1-indol.vercel.app/",
       "git": "https://github.com/rbock9/seir_penguin_project_1",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Wario.png"
     },
     {
-      "name": "project 2: holiday gift list app",
+      "name": "Project 2: Holiday Gift List App",
       "live": "https://rb-penguin-project2.herokuapp.com/",
-      "git": "hhttps://github.com/rbock9/penguin_project2",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/rbock9/penguin_project2",
+      "image": "https://images.unsplash.com/photo-1548246671-c518156dcc6d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwcHJlc2VudHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
     }
   ]
