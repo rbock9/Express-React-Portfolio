@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project 1: quiz game app",
+      "live": "https://seir-penguin-project-1-indol.vercel.app/",
+      "git": "https://github.com/rbock9/seir_penguin_project_1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "project 2: holiday gift list app",
+      "live": "https://rb-penguin-project2.herokuapp.com/",
+      "git": "hhttps://github.com/rbock9/penguin_project2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
